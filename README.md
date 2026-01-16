@@ -44,5 +44,5 @@ Simply navigate to the application and start searching! The "Return Home" button
 4. Displays related topics for further exploration
 
 ## License
-
+MIT
 Private project - All rights reserved.
